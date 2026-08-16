@@ -1,0 +1,11 @@
+numpy>=1.23
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.2
+numba>=0.57
+networkx>=3.0
+tigramite>=5.2
+yfinance>=0.2.40
+python-dotenv>=1.0
+# Requires Python >=3.10 (this project runs on pyenv 3.12.4).
+alpaca-py>=0.20
